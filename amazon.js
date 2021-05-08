@@ -1,6 +1,6 @@
 function userAmazon() {
 
-    let users = [
+    const users = [
         {
             name : 'rangarao',
             password : '',
